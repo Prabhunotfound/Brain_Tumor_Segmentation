@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scikit-image
+tqdm
+Pillow
+nibabel
+medpy
+opencv-python-headless
+PyWavelets
+torch
+torchvision
+albumentations
+ipykernel
+notebook
