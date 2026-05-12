@@ -41,13 +41,13 @@ conda activate brain-seg
 
 ### 3. Python Version Verification
 
-This project requires **Python 3.11** for full compatibility with the libraries used. Before proceeding, verify your version:
+This project requires **Python 3.14** for full compatibility with the libraries used. Before proceeding, verify your version:
 
 ```bash
 python --version
 ```
 
-If the output is not `Python 3.11.x`, please install the correct version from [python.org](https://www.python.org) before continuing.
+If the output is not `Python 3.14.x`, please install the correct version from [python.org](https://www.python.org) before continuing.
 
 ### 4. Install Dependencies
 
