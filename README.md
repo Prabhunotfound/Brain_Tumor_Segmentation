@@ -41,21 +41,13 @@ conda activate brain-seg
 
 ### 3. Python Version Verification
 
-<<<<<<< HEAD
 This project requires **Python 3.14** for full compatibility with the libraries used. Before proceeding, verify your version:
-=======
-This project requires **Python 3.11** for full compatibility with the libraries used. Before proceeding, verify your version:
->>>>>>> be7f52f (push code)
 
 ```bash
 python --version
 ```
 
-<<<<<<< HEAD
 If the output is not `Python 3.14.x`, please install the correct version from [python.org](https://www.python.org) before continuing.
-=======
-If the output is not `Python 3.11.x`, please install the correct version from [python.org](https://www.python.org) before continuing.
->>>>>>> be7f52f (push code)
 
 ### 4. Install Dependencies
 
@@ -105,7 +97,7 @@ dataset/
     └── test/
 ```
 
-> **Note:** The notebooks were originally run on **Kaggle** (P100/T4 GPU). Update `CFG.DATA_ROOT` in each model notebook to point to your local dataset path before running.
+> **Note:** The notebooks were originally run on **Kaggle** (T4 GPU). Update `CFG.DATA_ROOT` in each model notebook to point to your local dataset path before running.
 
 ---
 
